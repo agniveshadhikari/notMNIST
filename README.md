@@ -1,0 +1,2 @@
+# notMNIST
+Tensorflow learns notMNIST
